@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 import javax.imageio.stream.FileImageInputStream;
-
+//This is the sample program to demonstrate File operations in Java
 public class FileDemo {
 
 	@SuppressWarnings({ "resource" })
